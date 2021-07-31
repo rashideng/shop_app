@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This project is online shopping app.I used this app using php backend
 
 A few resources to get you started if this is your first Flutter project:
 
